@@ -126,4 +126,4 @@ function Editor({ name }) {
   );
 }
 
-root.render(<Editor name="Daniel" />);
+root.render(<Editor name="Alejandro" />);
