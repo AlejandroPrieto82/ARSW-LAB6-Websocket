@@ -2,10 +2,14 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 
 function BBServiceURL() {
   const host = window.location.host;
+
+  // 🔹 Si estás en localhost, usa la EC2
   if (host.toString().startsWith("localhost")) {
-    return 'ws://' + host + '/bbService';
+    return 'ws://54.234.66.162:8080/bbService';
   }
-  return 'wss://' + host + '/bbService';
+
+  // 🔹 Si estás en el servidor (EC2 misma), usa su propio host
+  return 'ws://' + host + '/bbService';
 }
 
 class WSBBChannel {

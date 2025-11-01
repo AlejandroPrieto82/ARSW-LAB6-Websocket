@@ -9,7 +9,7 @@ class WSClient extends React.Component {
     }
 
     componentDidMount() {
-        this.wsocket = new WebSocket("ws://localhost:8080/timer");
+        this.wsocket = new WebSocket("ws://54.234.66.162:8080/timer");
         this.wsocket.onmessage = (evt) => this.onMessage(evt);
         this.wsocket.onerror = (evt) => this.onError(evt);
     }

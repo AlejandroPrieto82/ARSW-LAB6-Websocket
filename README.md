@@ -155,4 +155,5 @@ MIT License © 2025 Alejandro Prieto
 
 ---
 
-✨ *Desarrollado como parte del curso de Arquitectura de Software (ARSW)*
+LINK DEL VIDEO **PRUEBA FUNCIONAMIENTO**:
+[VIDEO AQUI](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/samuel_prieto-r_mail_escuelaing_edu_co/EbRQj3_pWfFAnss6g6N981wBJyC8QvoaIciSdYCy0x4zLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=de5BjS)
